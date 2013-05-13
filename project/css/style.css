@@ -1,0 +1,23 @@
+/**CSS Document**/
+
+html{
+	background-color:#000;
+	color:#FFF;
+	border: 2px solid #fff dashed;
+}
+
+a:link {
+	color:green;
+}
+
+a:visited{
+	color:#666;
+}
+
+a:hover{
+	color:#fff;
+}
+
+a:active{
+	color:yellow;
+}
